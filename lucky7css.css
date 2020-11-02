@@ -81,8 +81,8 @@ label + input[type=radio] + label
 }
 #button {
     position: absolute;
-    bottom:10px;
-    right:10px;
+    bottom:90px;
+    right:30px;
     background-color: #1D2951;
     border-radius: 10px;
     border: none;
